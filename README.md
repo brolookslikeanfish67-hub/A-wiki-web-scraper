@@ -11,7 +11,7 @@ A lightweight, tracker-free tool to instantly extract Wikipedia articles into cl
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/brolookslikeanfish67-hub/A-wiki-web-scraper
    cd wiki-privacy-extractor
    ```
 
